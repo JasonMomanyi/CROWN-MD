@@ -1,6 +1,6 @@
 {
   "name": "CROWN-MD",
-  "description": "𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 first born",
+  "description": "𝐈𝐭𝐬_JasonMomanyi, quiet to rule",
   "keywords": [
     "bot",
     "whatsapp",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/kimsirm/CROWN-MD#readme",
   "repository": "https://github.com/kimsirm/CROWN-MD.git",
-  "logo": "https://i.imgur.com/iSDfKz1.jpeg",
+  "logo": "https://telegra.ph/file/4f5eb47c4211fd637ebe0.png",
   "success_url": "/",
   "env": {
     "PREFIX": {
